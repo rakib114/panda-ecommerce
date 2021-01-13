@@ -1,0 +1,28 @@
+.shoes-card, .backpack-card{
+    border: 0;
+}
+.shoes-card-footer, .backpack-card-footer{
+    background-color: white;
+    border: 0;
+}
+.cetagoris img{
+    width: 100px;
+}
+.panda-slide .carousel-inner{
+    background-color: #fceae8;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+#subscribe{
+    height: 300px;
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+.color-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: 0;
+    padding: 10px 30px;
+    border-radius: 10px;
+    outline: none;
+}
